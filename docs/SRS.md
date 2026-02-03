@@ -1,12 +1,11 @@
 
 # Requirements – Starter Template
 
-**Project Name:**Your App Name \
+**Project Name:** Your App Name \
 **Team:** Names and roles \
 **Course:** CSC 340\
 **Version:** 1.0\
-**Date:** 2026-01-30\
-**Purpose:** This SRS consolidates the scope and user‑facing requirements of LocalHarvest Hub and enumerates all user stories that guide development and testing.
+**Date:** 2026-01-30
 
 ---
 
@@ -18,9 +17,9 @@
 - **Term 2:** description
 
 **Primary Users / Roles.**
-- **Customer (consumer of produce boxes)** — 1 line goal statement.
-- **Farmer (provider of produce boxes)** — 1 line goal statement.
-- **SysAdmin (platform administrator)** — 1 line goal statement.
+- **Customer (e.g., Student/Patient/Pet Owner/etc. )** — 1 line goal statement.
+- **Provider (e.g., Teacher/Doctor/Pet Sitter/etc. )** — 1 line goal statement.
+- **SysAdmin (optional)** — 1 line goal statement.
 
 **Scope (this semester).**
 - <capability 1>
@@ -118,7 +117,7 @@ Write each story as: **As a `<role>`, I want `<capability>`, so that `<benefit>`
 
 ## 5. Milestones (course‑aligned)
 - **M2 Requirements** — this file + stories opened as issues. 
-- **M3 High‑fidelity prototype** — core customer/provider flows clickable. 
+- **M3 High‑fidelity prototype** — core customer/provider flows fully interactive. 
 - **M4 Design** — architecture, schema, API outline. 
 - **M5 Backend API** — key endpoints + tests. 
 - **M6 Increment** — ≥2 use cases end‑to‑end. 
